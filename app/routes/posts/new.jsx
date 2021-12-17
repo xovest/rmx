@@ -9,7 +9,7 @@ export const action = async ({ request }) => {
 
   console.log(fields);
 
-  return redirect('/posts')
+  // return redirect('/posts')
 }
 
 function NewPost() {
